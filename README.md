@@ -4,7 +4,7 @@
 
 Sky Cast adalah aplikasi web yang menyediakan cara yang mudah bagi pengguna untuk mendapatkan perkiraan cuaca untuk minggu yang akan datang. Aplikasi ini mencakup tautan navigasi, pembaruan berita cuaca, dan formulir umpan balik untuk saran pengguna.
 
-Sky Cast dapat diakses melalui 
+Sky Cast dapat diakses melalui https://revou-fsse-oct24.github.io/module-2-ghirahm/
 
 ## HTML Tags yang Digunakan
 
